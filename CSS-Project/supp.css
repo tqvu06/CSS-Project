@@ -1,0 +1,27 @@
+.supp {
+	height: 50px;
+	display:flex;
+	margin-bottom: 30px;
+	justify-content: space-around;
+	align-items: center;
+	border-bottom: 1px solid #665d5d;
+	margin-left: 35px;
+	margin-right: 35px;
+	padding-bottom: 8px;
+	font-family: Gravity;
+}
+
+.supp-item {
+	height: 40px;
+	width: 160px;
+	background-color: #ec0746;
+	color: #FFF;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 5px;
+}
+
+.supp-item:hover {
+	background-color: #d40404;
+}
