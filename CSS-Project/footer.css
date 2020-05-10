@@ -1,0 +1,19 @@
+.footer {
+	height: 100px;
+	background-color: #30363f;
+	font-family: sans-serif;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 10px 175px;
+	color: #FFF;
+}
+
+.fa-copyright {
+	margin-right: 3px;
+}
+
+.copyright {
+	display: flex;
+	margin-bottom: 15px;
+}
