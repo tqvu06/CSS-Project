@@ -1,0 +1,96 @@
+.main-content {
+	margin-top: 30px;
+	font-family: sans-serif;
+}
+
+.main-content .title {
+	font-family: Poetsen One;
+	font-size: 35px;
+	color: #00d4ff !important;
+	margin-bottom: 40px;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: space-around;
+	margin-bottom: 50px;
+}
+
+.photo {
+	height: 200px;
+	width: 200px;
+	border-radius: 5px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: scroll;
+}
+
+.overlay {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	opacity: 0;
+	color: #FFF;
+	transition: all 0.5s;
+	background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(108,112,113,0.9037990196078431) 55%, rgba(251,251,251,0) 100%);
+}
+
+ .photo:hover .overlay {
+	opacity: 1;
+}
+
+.name {
+	margin: 5px 0px;
+	text-align: center;
+}
+
+.idol1 .photo {
+	background-image: url(https://i.pinimg.com/236x/7f/eb/82/7feb82ceeac4488c4cbf5e069c1a2873.jpg);
+}
+
+.idol2 .photo {
+	background-image: url(https://i.pinimg.com/originals/6b/04/40/6b0440ae4b5c12bacd39c8b92e02d9c3.jpg);
+}
+
+.idol3 .photo {
+	background-image: url(https://cotvn.net/wp-content/uploads/2019/11/yua-mikami-bat-ngo-duoc-moi-lam-nguoi-dai-dien-trong-game-tai-dai-loan.jpg);
+}
+
+.idol4 .photo {
+	background-image: url(https://javhd.pics/media/japanese/rina-ishihara/1/hd-rina-ishihara-3.jpg);
+}
+
+.idol5 .photo {
+	background-image: url(https://streaming1.danviet.vn/upload/2-2019/images/2019-05-17/11-akiho-yoshizawa-2-1558099936-width650height975.jpg);
+}
+
+.idol6 .photo {
+	background-image: url(https://i.pinimg.com/originals/cd/7e/63/cd7e63f7a8db6adbb8c8a4c175653071.jpg);
+}
+
+.idol7 .photo {
+	background-image: url(https://i.pinimg.com/236x/22/18/2a/22182a2b7eb8157190f9522ed9fb3838--lady-twitter.jpg);
+}
+
+.idol8 .photo {
+	background-image: url(https://cdn.miscellaneoushi.com/1280x1920/20121020/models%20japanese%20kimono%20asians%20idol%20cities%20ai%20sayama%201280x1920%20wallpaper_www.miscellaneoushi.com_94.jpg);
+}
+
+.idol9 .photo {
+	background-image: url(https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile5.uf.tistory.com%2Fimage%2F191B6338504289CA07EA1A);
+}
+
+.idol10 .photo {
+	background-image: url(https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&container=sextop_net&url=http%3A%2F%2Fsextop.net%2Fwp-content%2Fuploads%2F2017%2F04%2Fsextop.net-abp-586-shunka-ayami-sex-clothing-tits-02.jpg);
+}
+
+
+
+
+
+
+
