@@ -1,0 +1,34 @@
+.header {
+	height: 70px;
+	display: flex;
+	padding: 5px 8px;
+	font-family: sans-serif;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+.title {
+	font-size: 50px;
+	font-family: Mashita;
+	color: #00d4ff;
+	flex-grow: 6;
+}
+
+.home {
+	flex-grow: 0.2;
+}
+
+
+.log-in{
+	flex-grow: 0.2;
+}
+
+.sign-up{
+	flex-grow: 0.2;
+}
+
+a:hover {
+	color: #9e9999;
+}
