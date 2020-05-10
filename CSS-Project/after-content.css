@@ -1,0 +1,54 @@
+.after-content {
+	height: 400px;
+	display: flex;
+	background-color: #353d47;
+	align-items: center;
+	font-family: sans-serif;
+	justify-content: space-around;
+	padding: 20px;
+}
+
+.sub-title {
+	margin-bottom: 18px;
+}
+
+.sub-detail{
+	margin-bottom: 18px;
+}
+
+.social {
+	margin: 22px 0px;
+	position: relative;
+	left: 8px;
+}
+
+.download {
+	position: relative;
+	left: 8px;
+}
+
+.language {
+	margin-bottom: 22px;
+}
+
+.account {
+	position: relative;
+	bottom: 20px;
+}
+
+.media-aspect {
+	position: relative;
+	bottom: 18px;
+}
+
+.fab {
+	transform: scale(2);
+	margin-right: 20px;
+}
+
+.language-picker {
+	width: 250px;
+	height: 30px;
+	background-color: #011e29;
+	color: #FFF;
+}
