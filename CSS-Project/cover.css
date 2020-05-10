@@ -1,0 +1,47 @@
+.cover {
+	height: 460px;
+	background-image: url(https://livedoor.blogimg.jp/bookpark_adult-bpblog/imgs/f/6/f6ac7afd.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment: scroll;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-family: sans-serif;
+	color: #FFF;
+	padding: 0 0;
+	margin-bottom: 8px;
+}
+
+.cover .content {
+	font-size: 40px;
+	font-family: Poetsen One;
+	margin-bottom: 10px;
+}
+
+.cover .detail {
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.cover .button {
+	height: 40px;
+	width: 20%;
+	cursor: pointer;
+	background-color: #ec0746;
+	border-radius: 5px;
+	text-align: : center;
+	border: none;
+	font-size: 15px;
+	color: #FFF;
+}
+
+.button:hover {
+	background-color: #d40404;
+}
+
+.button:active {
+	border: none;
+}
